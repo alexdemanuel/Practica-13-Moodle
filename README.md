@@ -32,7 +32,7 @@
 
 ```bash
 		chmod +x bitnami-moodle-3.5.3-1-linux-x64-installer.run
-
+```
 # 4 comenzamos la instalacion
 ```bash
 	sudo	./bitnami-moodle-3.5.3-1-linux-x64-installer.run
